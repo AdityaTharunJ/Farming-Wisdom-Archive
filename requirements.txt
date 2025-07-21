@@ -1,0 +1,11 @@
+streamlit
+pandas
+folium
+streamlit-folium
+Pillow
+gTTS
+SpeechRecognition
+geopy
+bcrypt
+deep_translator
+httpcore==0.15.0
